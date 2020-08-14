@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="r-02-整合SpringBoot" />
+        <module name="r-01-基本jedis" />
+        <module name="r-02-springboot整合" />
+        <module name="r-03-自定义Temp和封装工具类" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="r-01-基本jedis" target="1.8" />
+      <module name="r-02-springboot整合" target="1.8" />
+      <module name="r-02-整合SpringBoot" target="1.8" />
+      <module name="r-03-自定义Temp和封装工具类" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="r-02-springboot整合" options="-parameters" />
+      <module name="r-02-整合SpringBoot" options="-parameters" />
+      <module name="r-03-自定义Temp和封装工具类" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/r-01-基本jedis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-02-整合SpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r-03-自定义Temp和封装工具类/src/main/java" charset="UTF-8" />
+  </component>
+</project>

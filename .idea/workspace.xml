@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e286921-3d82-4aa8-8cae-8febd580196c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g4TmXlt9ZGYWkRZLF4Zvd5QrDL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/r-03-自定义Temp和封装工具类/target/classes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49343833" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.r03.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Enviroment\java\Redis\r-03-自定义Temp和封装工具类\target\classes" />
+      <recent name="D:\Enviroment\java\Redis\r-03-自定义Temp和封装工具类\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.工具类Test.test">
+    <configuration name="MultiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bmft.MultiTest" />
+      <module name="r-01-基本jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bmft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="r-02-整合SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.r02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.r02" />
+      <option name="MAIN_CLASS_NAME" value="com.example.r02.ConnectionTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateTest01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="r-03-自定义Temp和封装工具类" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.r03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.r03" />
+      <option name="MAIN_CLASS_NAME" value="com.example.r03.TemplateTest01" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateTest01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="r-03-自定义Temp和封装工具类" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.r03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.r03" />
+      <option name="MAIN_CLASS_NAME" value="com.example.r03.TemplateTest01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工具类Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="r-03-自定义Temp和封装工具类" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.r03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.r03" />
+      <option name="MAIN_CLASS_NAME" value="com.example.r03.工具类Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="r-02-springboot整合" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="r02.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="r-02-整合SpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.r02.R02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="r-03-自定义Temp和封装工具类" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.r03.R03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.工具类Test.test" />
+        <item itemvalue="JUnit.TemplateTest01" />
+        <item itemvalue="JUnit.TemplateTest01.test" />
+        <item itemvalue="JUnit.ConnectionTest.test" />
+        <item itemvalue="Application.MultiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e286921-3d82-4aa8-8cae-8febd580196c" name="Default Changelist" comment="" />
+      <created>1597373023820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597373023820</updated>
+      <workItem from="1597373026573" duration="15125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="78" key="#Project_Structure" timestamp="1597383533227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="78" key="#Project_Structure/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597383533227" />
+    <state x="744" y="78" key="#Project_Structure/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597373165999" />
+    <state x="764" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1597390932627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="228" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597390932627" />
+    <state x="713" y="209" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1597386752138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="209" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597386752138" />
+    <state x="738" y="377" width="443" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597381531439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="377" width="443" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597381531439" />
+    <state x="932" y="175" key="FileChooserDialogImpl" timestamp="1597387498896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="932" y="175" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597387498896" />
+    <state x="932" y="175" key="FileChooserDialogImpl/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597373084337" />
+    <state width="1875" height="2" key="GridCell.Tab.0.bottom" timestamp="1597391536121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="2" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597391536121" />
+    <state width="1875" height="2" key="GridCell.Tab.0.bottom/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597381203463" />
+    <state width="1875" height="2" key="GridCell.Tab.0.center" timestamp="1597391536121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="2" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597391536121" />
+    <state width="1875" height="2" key="GridCell.Tab.0.center/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597381203463" />
+    <state width="1875" height="2" key="GridCell.Tab.0.left" timestamp="1597391536120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="2" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597391536120" />
+    <state width="1875" height="2" key="GridCell.Tab.0.left/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597381203463" />
+    <state width="1875" height="2" key="GridCell.Tab.0.right" timestamp="1597391536121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="2" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597391536121" />
+    <state width="1875" height="2" key="GridCell.Tab.0.right/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597381203463" />
+    <state x="489" y="174" key="Maven.ArtifactSearchDialog" timestamp="1597390044195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="174" key="Maven.ArtifactSearchDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597390044195" />
+    <state x="460" y="161" key="SettingsEditor" timestamp="1597373997823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="161" key="SettingsEditor/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597373997823" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1597377918217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597377918217" />
+    <state x="636" y="119" width="647" height="801" key="find.popup" timestamp="1597388646322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="119" width="647" height="801" key="find.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597388646322" />
+    <state x="527" y="30" key="new project wizard" timestamp="1597386923429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="30" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597386923429" />
+    <state x="527" y="30" key="new project wizard/-1920.8.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597373132860" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597388856545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597388856545" />
+    <state x="832" y="102" key="spring file set editor" timestamp="1597383467056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="102" key="spring file set editor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597383467056" />
+  </component>
+</project>

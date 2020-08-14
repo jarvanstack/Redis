@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: 192.168.43.130
+    port: 6000
+
+

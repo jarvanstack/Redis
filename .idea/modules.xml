@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/r-01-基本jedis/r-01-基本jedis.iml" filepath="$PROJECT_DIR$/r-01-基本jedis/r-01-基本jedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r-01-基本jedis/r-02-springboot整合.iml" filepath="$PROJECT_DIR$/r-01-基本jedis/r-02-springboot整合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r-02-整合SpringBoot/r-02-整合SpringBoot.iml" filepath="$PROJECT_DIR$/r-02-整合SpringBoot/r-02-整合SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r-03-自定义Temp和封装工具类/r-03-自定义Temp和封装工具类.iml" filepath="$PROJECT_DIR$/r-03-自定义Temp和封装工具类/r-03-自定义Temp和封装工具类.iml" />
+    </modules>
+  </component>
+</project>
